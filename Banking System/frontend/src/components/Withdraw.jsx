@@ -26,5 +26,5 @@ export default function Withdraw() {
     <div>
       {/* TODO: Implement Withdraw form (accountNumber, amount); call backend; show results/errors */}
     </div>
-  );
+  )
 } 

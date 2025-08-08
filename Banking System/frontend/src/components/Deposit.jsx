@@ -26,5 +26,5 @@ export default function Deposit() {
     <div>
       {/* TODO: Implement Deposit form (accountNumber, amount); call backend; handle success & errors */}
     </div>
-  );
+  )
 } 

@@ -24,5 +24,5 @@ export default function Login() {
     <div>
       {/* TODO: Implement Login form (email, password); submit to backend; store JWT */}
     </div>
-  );
+  )
 } 

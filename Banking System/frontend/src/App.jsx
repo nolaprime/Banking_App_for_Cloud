@@ -15,5 +15,5 @@ export default function App() {
         <li>Handle loading and error states.</li>
       </ul>
     </div>
-  );
-}
+  )
+} 

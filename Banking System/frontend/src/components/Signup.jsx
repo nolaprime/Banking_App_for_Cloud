@@ -21,5 +21,5 @@ export default function Signup() {
     <div>
       {/* TODO: Implement Signup form (email, password); call /api/user/signup; handle success & errors */}
     </div>
-  );
+  )
 } 

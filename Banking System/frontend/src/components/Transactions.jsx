@@ -23,5 +23,5 @@ export default function Transactions() {
     <div>
       {/* TODO: Implement Transactions list for an account; show loading/errors/empty state */}
     </div>
-  );
+  )
 } 
